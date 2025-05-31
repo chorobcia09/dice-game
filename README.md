@@ -14,6 +14,7 @@ Prosty, responsywny zegar cyfrowy wykonany w HTML, CSS i JavaScript.
 2. Otwórz plik `index.html` w przeglądarce.
 
 [Zobacz live](https://chorobcia09.github.io/timer/)
+
 ---
 
 ## Description - GB
