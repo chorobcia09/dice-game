@@ -1,1 +1,1 @@
-# dice-game
+# Digital clock
